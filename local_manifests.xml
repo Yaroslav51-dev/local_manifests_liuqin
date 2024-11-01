@@ -7,15 +7,15 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/liuqin" name="android_device_xiaomi_liuqin" remote="SM8475" revision="topaz" />
+    <project path="device/xiaomi/liuqin" name="android_device_xiaomi_liuqin" remote="SM8475" revision="uvite" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/liuqin" name="android_device_xiaomi_liuqin-kernel" remote="SM8475" revision="topaz" />
+    <project path="kernel/xiaomi/liuqin" name="android_device_xiaomi_liuqin-kernel" remote="SM8475" revision="uvite" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/liuqin" name="android_vendor_xiaomi_liuqin" remote="SM8475" revision="topaz" />
+    <project path="vendor/xiaomi/liuqin" name="android_vendor_xiaomi_liuqin" remote="SM8475" revision="uvite" />
 
     <!-- Vendor - Common -->
 
