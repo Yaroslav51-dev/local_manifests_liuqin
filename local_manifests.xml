@@ -3,19 +3,19 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="aospa" fetch="https://github.com/Xiaomi-SM8475" clone-depth="1" />
+    <remote name="SM8475" fetch="https://github.com/Xiaomi-SM8475" clone-depth="1" />
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/liuqin" name="android_device_xiaomi_liuqin" remote="aospa" revision="topaz" />
+    <project path="device/xiaomi/liuqin" name="android_device_xiaomi_liuqin" remote="SM8475" revision="topaz" />
 
     <!-- Device - Common -->
 
     <!-- Kernel -->
-    <project path="kernel/xiaomi/liuqin" name="android_device_xiaomi_liuqin-kernel" remote="aospa" revision="topaz" />
+    <project path="kernel/xiaomi/liuqin" name="android_device_xiaomi_liuqin-kernel" remote="SM8475" revision="topaz" />
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/liuqin" name="android_vendor_xiaomi_liuqin" remote="aospa" revision="topaz" />
+    <project path="vendor/xiaomi/liuqin" name="android_vendor_xiaomi_liuqin" remote="SM8475" revision="topaz" />
 
     <!-- Vendor - Common -->
 
